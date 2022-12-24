@@ -13,5 +13,8 @@ and write
 project_2.py
 ```
 
+# Preview
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0FV5tM0/mk.png" alt="mk" border="0"></a><br /><a target='_blank' href='https://id.imgbb.com/'></a><br />
+
 # Credit
 - Naomi / Manakuslagi : https://github.com/Manakuslagi
